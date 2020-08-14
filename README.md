@@ -19,7 +19,7 @@ The "Toal Fares by City Type" graph shows the differences in weekly total fares 
 ## Summary
 ### Business Recommendations
 - Based on the results, one recommendation to the CEO for addressing disparities among the city types is hiring more drivers in rural and suburban cities or cutting down the number of drivers in urban cities This would help even out the total number of drivers and the average fare per driver in each type of city.
-- Another recommendation to the CEO is to target marketing towards rural and suburban cities. By increasing the amount of users in these areas, the total fares and the total number of rides would increase thereby alleviating some disparity.
+- Another recommendation to the CEO is to target marketing towards rural and suburban cities. By increasing the amount of users in these areas, the total fares and the total number of rides would increase thereby alleviating the disparity.
 - A third recommendation for addressing disparities among city types is decreasing the fares in rural and suburban cities or increasing the fares in urban cities. This would even out the total fares and the average fares per ride and may also help fix the disparity in the total number of rides in each type of city. 
 
 #### Resources
