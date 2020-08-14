@@ -12,9 +12,7 @@ Rural cities have the highest average fare per ride ($34.62) and urban cities ha
 
 <img src='https://github.com/npantfoerder/PyBer-analysis/blob/master/analysis/PyBer_summary_df.png'>
 
-The Toal Fare by City Type graph shows the differences in weekly total fares from January to April. 
-
-Urban cities have the highest total fares of around $2,000 as shown by the yellowline. The red line shows that the total fares in suburban cities are around $1,000 every week. The lowest total fares is depicted by the blue line for rural cities at around $250. In late February, the total fares in all types of cities seem to be at their highest. The relationship between total fares and date is depicted in the graph below:
+The "Toal Fares by City Type" graph shows the differences in weekly total fares from January to April. Urban cities have the highest total fares of around $2,000 as shown by the yellowline. The red line shows that the total fares in suburban cities are around $1,000 every week. The lowest total fares is depicted by the blue line for rural cities at around $250. In late February, the total fares in all types of cities seem to be at their highest. The relationship between total fares and date is depicted in the graph below:
 
 <img src='https://github.com/npantfoerder/PyBer-analysis/blob/master/analysis/PyBer_fare_summary.png'>
 
